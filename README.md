@@ -5,11 +5,10 @@
 [#] Simple offline software for managing billing in restaurants.
 
 [#] Technologies Used :
-- Python
-- Python Flask
+- Python, Python Flask
 - PostgreSQL
-- JavaScript, JSON, VueJS Framework
-- NodeJS
+- NodeJS, JavaScript, JSON, VueJS Framework
+
 
 [#] Steps to run the project
 
