@@ -8,7 +8,7 @@
 - Python, Python Flask
 - PostgreSQL
 - NodeJS, JavaScript, JSON, VueJS Framework
-
+- HTML5 & CSS3
 
 [#] Steps to run the project
 
