@@ -4,6 +4,8 @@
 
 [#] Simple offline software for managing billing in restaurants.
 
+[#] Developed as a project for third semester of Msc Computer         Science.
+
 [#] Technologies Used :
 - Python, Python Flask
 - PostgreSQL
