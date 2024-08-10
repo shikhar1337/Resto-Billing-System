@@ -9,7 +9,7 @@
 [#] Technologies Used :
 - Python, Python Flask
 - PostgreSQL
-- NodeJS, JavaScript, JSON, VueJS Framework
+- NodeJS, JavaScript, VueJS Framework
 - HTML5 & CSS3
 
 [#] Steps to run the project
