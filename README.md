@@ -7,7 +7,7 @@
 [#] Developed as a project for third semester of Msc Computer         Science.
 
 [#] Technologies Used :
-- Python, Python Flask
+- Python, Flask Framework
 - PostgreSQL
 - NodeJS, JavaScript, VueJS Framework
 - HTML5 & CSS3
